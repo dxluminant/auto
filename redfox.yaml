@@ -149,3 +149,38 @@ proxies:
   - { name: "🦊 RedFox-148", type: socks5, server: "103.106.239.20", port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-149", type: socks5, server: "103.106.239.40", port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-150", type: socks5, server: "103.106.239.74", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-151", type: socks5, server: "103.106.239.217", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-152", type: socks5, server: "103.106.239.216", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-153", type: socks5, server: "103.106.239.218", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-154", type: socks5, server: "103.106.239.219", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-155", type: socks5, server: "103.106.239.222", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-156", type: socks5, server: "103.106.239.238", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-157", type: socks5, server: "103.106.239.239", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-158", type: socks5, server: "103.106.239.250", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-159", type: socks5, server: "103.106.239.251", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-160", type: socks5, server: "103.112.52.66", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-161", type: socks5, server: "103.112.52.95", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-162", type: socks5, server: "103.112.52.122", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-163", type: socks5, server: "103.112.52.139", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-164", type: socks5, server: "103.112.52.150", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-165", type: socks5, server: "103.112.52.154", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-166", type: socks5, server: "103.112.52.180", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-167", type: socks5, server: "103.112.52.181", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-168", type: socks5, server: "103.112.52.187", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-169", type: socks5, server: "103.112.52.208", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-170", type: socks5, server: "103.112.52.214", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-171", type: socks5, server: "103.112.52.238", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-172", type: socks5, server: "103.112.52.249", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-173", type: socks5, server: "103.112.53.82", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-174", type: socks5, server: "103.112.53.113", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-175", type: socks5, server: "103.112.53.118", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-176", type: socks5, server: "103.112.53.136", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-177", type: socks5, server: "103.112.53.160", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-178", type: socks5, server: "103.112.53.213", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-179", type: socks5, server: "103.112.53.232", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-180", type: socks5, server: "103.112.54.5", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-181", type: socks5, server: "103.112.54.13", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-182", type: socks5, server: "103.112.54.62", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-183", type: socks5, server: "103.112.54.76", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-184", type: socks5, server: "103.112.54.99", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-185", type: socks5, server: "103.112.54.198", port: 10888, username: "test", password: "test123" }
