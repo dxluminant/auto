@@ -65,7 +65,7 @@ proxies:
   - { name: "🦊 RedFox-64", type: socks5, server: "cr100.ipbd.xyz", port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-65", type: socks5, server: "cr101.ipbd.xyz", port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-66", type: socks5, server: "cr104.ipbd.xyz", port: 10888, username: "test", password: "test123" }
-- { name: "🦊 RedFox-67",  type: socks5, server: "45.125.220.45", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-67",  type: socks5, server: "45.125.220.45", port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-68",  type: socks5, server: "45.125.221.0",  port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-69",  type: socks5, server: "45.125.221.33", port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-70",  type: socks5, server: "45.125.221.60", port: 10888, username: "test", password: "test123" }
@@ -99,7 +99,7 @@ proxies:
   - { name: "🦊 RedFox-98",  type: socks5, server: "103.72.60.220", port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-99",  type: socks5, server: "103.72.60.223", port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-100", type: socks5, server: "103.72.60.224", port: 10888, username: "test", password: "test123" }
-- { name: "🦊 RedFox-101", type: socks5, server: "103.72.60.226", port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-101", type: socks5, server: "103.72.60.226", port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-102", type: socks5, server: "103.72.61.3",   port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-103", type: socks5, server: "103.72.61.23",  port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-104", type: socks5, server: "103.72.61.28",  port: 10888, username: "test", password: "test123" }
