@@ -10,7 +10,7 @@ proxies:
 
   - { name: "🦊 RedFox-5", type: socks5, server: 103.152.106.105, port: 7626, username: "OnlyFox", password: "OnlyFox" }
 
-  - { name: "🦊 RedFox-6", type: socks5, server: 116.68.199.86, port: 2580, username: "RedFox", password: "RedFox" }
+  - { name: "🦊 RedFox-6", type: socks5, server: 116.68.199.86, port: 2580, username: "OnlyFox", password: "OnlyFox" }
 
   - { name: "🦊 RedFox-7", type: socks5, server: 103.166.253.94, port: 1088, username: "test", password: "test" }
 
