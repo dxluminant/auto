@@ -25,3 +25,55 @@ proxies:
   - { name: "🦊 RedFox-24", type: socks5, server: "27.147.142.202",  port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-25", type: socks5, server: "27.147.145.14",  port: 10888, username: "test", password: "test123" }
   - { name: "🦊 RedFox-26", type: socks5, server: "27.147.159.86",  port: 1088, username: "test", password: "test123" }
+proxies:
+  - { name: "🦊 RedFox-27", type: socks5, server: 103.48.161.145, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-28", type: socks5, server: 103.72.60.143, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-29", type: socks5, server: 103.72.60.182, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-30", type: socks5, server: 103.72.60.220, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-31", type: socks5, server: 103.72.61.33, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-32", type: socks5, server: 103.72.61.42, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-33", type: socks5, server: 103.72.61.44, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-34", type: socks5, server: 103.72.61.57, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-35", type: socks5, server: 103.101.197.128, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-36", type: socks5, server: 103.101.197.251, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-37", type: socks5, server: 103.101.199.255, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-38", type: socks5, server: 103.106.238.22, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-39", type: socks5, server: 103.106.239.1, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-40", type: socks5, server: 103.106.239.40, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-41", type: socks5, server: 103.106.239.169, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-42", type: socks5, server: 103.106.239.173, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-43", type: socks5, server: 103.106.239.218, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-44", type: socks5, server: 103.112.52.139, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-45", type: socks5, server: 103.112.52.180, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-46", type: socks5, server: 103.112.52.181, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-47", type: socks5, server: 103.112.52.214, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-48", type: socks5, server: 103.112.53.118, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-49", type: socks5, server: 103.112.53.160, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-50", type: socks5, server: 103.120.203.67, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-51", type: socks5, server: 103.122.142.17, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-52", type: socks5, server: 103.122.142.122, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-53", type: socks5, server: 103.122.142.130, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-54", type: socks5, server: 103.122.142.131, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-55", type: socks5, server: 103.147.162.69, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-56", type: socks5, server: 103.147.162.99, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-57", type: socks5, server: 103.147.162.143, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-58", type: socks5, server: 103.147.162.151, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-59", type: socks5, server: 103.147.162.153, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-60", type: socks5, server: 103.147.162.179, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-61", type: socks5, server: 103.147.162.182, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-62", type: socks5, server: 103.147.162.183, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-63", type: socks5, server: 103.147.163.0, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-64", type: socks5, server: 103.147.163.98, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-65", type: socks5, server: 103.159.128.14, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-66", type: socks5, server: 103.159.128.220, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-67", type: socks5, server: 103.159.129.21, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-68", type: socks5, server: 103.159.129.77, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-69", type: socks5, server: 103.205.37.86, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-70", type: socks5, server: 103.218.27.226, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-71", type: socks5, server: 103.231.238.214, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-72", type: socks5, server: 103.239.252.82, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-73", type: socks5, server: 103.239.252.120, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-74", type: socks5, server: 103.239.253.51, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-75", type: socks5, server: 103.239.254.252, port: 10888, username: "123", password: "321" }
+  - { name: "🦊 RedFox-76", type: socks5, server: 103.239.255.43, port: 19568, username: "123", password: "321" }
+  - { name: "🦊 RedFox-77", type: socks5, server: 114.129.15.131, port: 19568, username: "123", password: "321" }
