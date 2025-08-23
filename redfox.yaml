@@ -16,3 +16,9 @@ proxies:
   - { name: "🦊 RedFox-15", type: socks5, server: "103.112.54.130",  port: 1088, username: "test", password: "test" }
   - { name: "🦊 RedFox-16", type: socks5, server: "103.120.203.62",  port: 6969, username: "test", password: "test" }
   - { name: "🦊 RedFox-17", type: socks5, server: "103.122.142.210",  port: 1080, username: "test", password: "test" }
+  - { name: "🦊 RedFox-18", type: socks5, server: "27.147.132.22",  port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-19", type: socks5, server: "27.147.141.162",  port: 1088, username: "a", password: "a" }
+  - { name: "🦊 RedFox-20", type: socks5, server: "27.147.141.163",  port: 1088, username: "a", password: "a" }
+  - { name: "🦊 RedFox-21", type: socks5, server: "27.147.141.164",  port: 1088, username: "test", password: "test" }
+  - { name: "🦊 RedFox-22", type: socks5, server: "27.147.142.73",  port: 10888, username: "test", password: "test123" }
+  - { name: "🦊 RedFox-23", type: socks5, server: "27.147.145.122",  port: 10888, username: "test", password: "test123" }
