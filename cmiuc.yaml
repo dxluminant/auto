@@ -299,7 +299,7 @@ proxies:
   username: "test"
   password: "test"
   name: 🦊 RedFox-50
-  - type: "socks5"
+- type: "socks5"
   server: "103.166.253.90"
   port: "1088"
   username: "test"
