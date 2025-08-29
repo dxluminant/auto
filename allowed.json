@@ -1,6 +1,14 @@
 {
-  "103.178.186.147": ["🦊 RedFox 1"],
-  "103.56.88.19": ["🦊 RedFox 2"],
-  "192.168.1.50": ["🦊 RedFox 3", "🦊 RedFox 4"]
+  "103.178.186.147": {
+    "proxies": ["🦊 RedFox 1"],
+    "speed-limit": 2
+  },
+  "103.56.88.19": {
+    "proxies": ["🦊 RedFox 2"],
+    "speed-limit": 5
+  },
+  "192.168.1.50": {
+    "proxies": ["🦊 RedFox 3", "🦊 RedFox 4"],
+    "speed-limit": 10
+  }
 }
-
