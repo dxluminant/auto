@@ -1,6 +1,7 @@
 {
   "allowed_ips": ["103.178.186.146", "103.245.96.21"],
   "proxies": [
-    { "name": "🦊 RedFox 50", "🦊 RedFox 8" }
+    { "name": "🦊 RedFox 50" }
+    { "name": "🦊 RedFox 4" }
   ]
 }
