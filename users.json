@@ -1,3 +1,14 @@
 {
-    "users": []
+    "users": [
+        {
+            "username": "droxilen",
+            "expiry": "2025-06-30",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 6",
+                    "server": "103.108.60.35"
+                }
+            ]
+        }
+    ]
 }
