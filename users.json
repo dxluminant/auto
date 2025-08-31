@@ -9,6 +9,484 @@
                     "server": "103.84.252.101"
                 }
             ]
+        },
+        {
+            "username": "droxilen",
+            "expiry": "2025-08-21",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 1",
+                    "server": "103.126.23.222"
+                },
+                {
+                    "name": "🦊 RedFox 2",
+                    "server": "103.38.55.55"
+                },
+                {
+                    "name": "🦊 RedFox 3",
+                    "server": "103.166.253.94"
+                },
+                {
+                    "name": "🦊 RedFox 6",
+                    "server": "103.108.60.35"
+                },
+                {
+                    "name": "🦊 RedFox 7",
+                    "server": "103.84.252.101"
+                },
+                {
+                    "name": "🦊 RedFox 8",
+                    "server": "123.253.96.249"
+                },
+                {
+                    "name": "🦊 RedFox 10",
+                    "server": "118.179.158.241"
+                },
+                {
+                    "name": "🦊 RedFox 11",
+                    "server": "43.243.205.58"
+                },
+                {
+                    "name": "🦊 RedFox 12",
+                    "server": "203.76.148.154"
+                },
+                {
+                    "name": "🦊 RedFox 13",
+                    "server": "180.148.214.52"
+                },
+                {
+                    "name": "🦊 RedFox 15",
+                    "server": "103.159.218.218"
+                },
+                {
+                    "name": "🦊 RedFox 16",
+                    "server": "43.229.210.8"
+                },
+                {
+                    "name": "🦊 RedFox 17",
+                    "server": "103.123.169.243"
+                },
+                {
+                    "name": "🦊 RedFox 20",
+                    "server": "103.122.252.94"
+                },
+                {
+                    "name": "🦊 RedFox 21",
+                    "server": "58.84.33.11"
+                },
+                {
+                    "name": "🦊 RedFox 22",
+                    "server": "103.71.46.197"
+                },
+                {
+                    "name": "🦊 RedFox 23",
+                    "server": "202.144.201.98"
+                },
+                {
+                    "name": "🦊 RedFox 25",
+                    "server": "103.129.200.102"
+                },
+                {
+                    "name": "🦊 RedFox 26",
+                    "server": "103.197.48.126"
+                },
+                {
+                    "name": "🦊 RedFox 27",
+                    "server": "103.81.104.161"
+                },
+                {
+                    "name": "🦊 RedFox 28",
+                    "server": "116.206.91.65"
+                },
+                {
+                    "name": "🦊 RedFox 29",
+                    "server": "103.81.104.206"
+                },
+                {
+                    "name": "🦊 RedFox 30",
+                    "server": "103.189.158.13"
+                },
+                {
+                    "name": "🦊 RedFox 31",
+                    "server": "203.96.226.98"
+                },
+                {
+                    "name": "🦊 RedFox 32",
+                    "server": "103.108.60.92"
+                },
+                {
+                    "name": "🦊 RedFox 33",
+                    "server": "118.179.214.107"
+                },
+                {
+                    "name": "🦊 RedFox 34",
+                    "server": "203.190.8.8"
+                },
+                {
+                    "name": "🦊 RedFox 35",
+                    "server": "103.254.167.18"
+                },
+                {
+                    "name": "🦊 RedFox 36",
+                    "server": "103.30.29.204"
+                },
+                {
+                    "name": "🦊 RedFox 37",
+                    "server": "123.49.39.120"
+                },
+                {
+                    "name": "🦊 RedFox 38",
+                    "server": "103.140.25.10"
+                },
+                {
+                    "name": "🦊 RedFox 39",
+                    "server": "103.197.48.154"
+                },
+                {
+                    "name": "🦊 RedFox 40",
+                    "server": "103.108.60.173"
+                },
+                {
+                    "name": "🦊 RedFox 41",
+                    "server": "103.166.253.92"
+                },
+                {
+                    "name": "🦊 RedFox 42",
+                    "server": "103.129.200.173"
+                },
+                {
+                    "name": "🦊 RedFox 43",
+                    "server": "103.122.254.33"
+                },
+                {
+                    "name": "🦊 RedFox 44",
+                    "server": "103.84.252.97"
+                },
+                {
+                    "name": "🦊 RedFox 45",
+                    "server": "103.199.155.186"
+                },
+                {
+                    "name": "🦊 RedFox 46",
+                    "server": "203.190.9.73"
+                },
+                {
+                    "name": "🦊 RedFox 47",
+                    "server": "220.247.165.129"
+                },
+                {
+                    "name": "🦊 RedFox 48",
+                    "server": "123.253.96.148"
+                },
+                {
+                    "name": "🦊 RedFox 49",
+                    "server": "202.4.105.122"
+                },
+                {
+                    "name": "🦊 RedFox 50",
+                    "server": "103.245.96.21"
+                },
+                {
+                    "name": "🦊 RedFox 51",
+                    "server": "103.81.104.177"
+                },
+                {
+                    "name": "🦊 RedFox 52",
+                    "server": "103.91.231.244"
+                },
+                {
+                    "name": "🦊 RedFox 53",
+                    "server": "103.186.238.1"
+                },
+                {
+                    "name": "🦊 RedFox 61",
+                    "server": "122.102.35.105"
+                },
+                {
+                    "name": "🦊 RedFox 63",
+                    "server": "115.127.192.158"
+                },
+                {
+                    "name": "🦊 RedFox 64",
+                    "server": "103.126.23.240"
+                },
+                {
+                    "name": "🦊 RedFox 65",
+                    "server": "118.179.197.30"
+                },
+                {
+                    "name": "🦊 RedFox 70",
+                    "server": "49.0.46.98"
+                },
+                {
+                    "name": "🦊 RedFox 72",
+                    "server": "180.211.169.46"
+                },
+                {
+                    "name": "🦊 RedFox 77",
+                    "server": "118.179.81.98"
+                },
+                {
+                    "name": "🦊 RedFox 78",
+                    "server": "118.179.101.117"
+                },
+                {
+                    "name": "🦊 RedFox 79",
+                    "server": "103.4.64.163"
+                },
+                {
+                    "name": "🦊 RedFox 81",
+                    "server": "49.0.39.182"
+                },
+                {
+                    "name": "🦊 RedFox 82",
+                    "server": "45.125.220.114"
+                },
+                {
+                    "name": "🦊 RedFox 83",
+                    "server": "45.125.220.223"
+                },
+                {
+                    "name": "🦊 RedFox 84",
+                    "server": "45.125.223.105"
+                },
+                {
+                    "name": "🦊 RedFox 86",
+                    "server": "103.48.161.132"
+                },
+                {
+                    "name": "🦊 RedFox 87",
+                    "server": "103.106.236.156"
+                },
+                {
+                    "name": "🦊 RedFox 89",
+                    "server": "103.112.53.106"
+                },
+                {
+                    "name": "🦊 RedFox 90",
+                    "server": "103.112.54.130"
+                },
+                {
+                    "name": "🦊 RedFox 92",
+                    "server": "103.218.24.234"
+                },
+                {
+                    "name": "🦊 RedFox 94",
+                    "server": "103.218.27.66"
+                },
+                {
+                    "name": "🦊 RedFox 95",
+                    "server": "103.218.27.67"
+                },
+                {
+                    "name": "🦊 RedFox 96",
+                    "server": "45.249.102.93"
+                },
+                {
+                    "name": "🦊 RedFox 101",
+                    "server": "103.120.202.73"
+                },
+                {
+                    "name": "🦊 RedFox 102",
+                    "server": "103.120.203.188"
+                },
+                {
+                    "name": "🦊 RedFox 103",
+                    "server": "103.120.203.190"
+                },
+                {
+                    "name": "🦊 RedFox 104",
+                    "server": "43.243.204.178"
+                },
+                {
+                    "name": "🦊 RedFox 105",
+                    "server": "43.243.204.181"
+                },
+                {
+                    "name": "🦊 RedFox 106",
+                    "server": "43.243.204.193"
+                },
+                {
+                    "name": "🦊 RedFox 107",
+                    "server": "43.243.205.58"
+                },
+                {
+                    "name": "🦊 RedFox 109",
+                    "server": "119.40.82.113"
+                },
+                {
+                    "name": "🦊 RedFox 110",
+                    "server": "119.40.83.153"
+                },
+                {
+                    "name": "🦊 RedFox 111",
+                    "server": "119.40.89.138"
+                },
+                {
+                    "name": "🦊 RedFox 114",
+                    "server": "119.40.93.154"
+                },
+                {
+                    "name": "🦊 RedFox 117",
+                    "server": "210.4.66.62"
+                },
+                {
+                    "name": "🦊 RedFox 118",
+                    "server": "210.4.66.150"
+                },
+                {
+                    "name": "🦊 RedFox 119",
+                    "server": "210.4.67.65"
+                },
+                {
+                    "name": "🦊 RedFox 120",
+                    "server": "210.4.73.114"
+                },
+                {
+                    "name": "🦊 RedFox 121",
+                    "server": "210.4.74.129"
+                },
+                {
+                    "name": "🦊 RedFox 122",
+                    "server": "210.4.75.185"
+                },
+                {
+                    "name": "🦊 RedFox 123",
+                    "server": "210.4.76.163"
+                },
+                {
+                    "name": "🦊 RedFox 131",
+                    "server": "43.224.116.165"
+                },
+                {
+                    "name": "🦊 RedFox 134",
+                    "server": "43.225.150.234"
+                },
+                {
+                    "name": "🦊 RedFox 135",
+                    "server": "103.4.145.230"
+                },
+                {
+                    "name": "🦊 RedFox 145",
+                    "server": "103.230.63.202"
+                },
+                {
+                    "name": "🦊 RedFox 146",
+                    "server": "103.230.63.204"
+                },
+                {
+                    "name": "🦊 RedFox 147",
+                    "server": "103.230.63.206"
+                },
+                {
+                    "name": "🦊 RedFox 151",
+                    "server": "103.245.205.17"
+                },
+                {
+                    "name": "🦊 RedFox 152",
+                    "server": "103.245.205.19"
+                },
+                {
+                    "name": "🦊 RedFox 155",
+                    "server": "118.179.202.238"
+                },
+                {
+                    "name": "🦊 RedFox 156",
+                    "server": "118.179.214.106"
+                },
+                {
+                    "name": "🦊 RedFox 157",
+                    "server": "202.4.124.42"
+                },
+                {
+                    "name": "🦊 RedFox 159",
+                    "server": "118.179.135.120"
+                },
+                {
+                    "name": "🦊 RedFox 160",
+                    "server": "118.179.200.244"
+                },
+                {
+                    "name": "🦊 RedFox 161",
+                    "server": "202.4.101.64"
+                },
+                {
+                    "name": "🦊 RedFox 162",
+                    "server": "202.4.105.96"
+                },
+                {
+                    "name": "🦊 RedFox 163",
+                    "server": "202.4.105.244"
+                },
+                {
+                    "name": "🦊 RedFox 164",
+                    "server": "202.4.117.208"
+                },
+                {
+                    "name": "🦊 RedFox 165",
+                    "server": "202.4.122.209"
+                },
+                {
+                    "name": "🦊 RedFox 175",
+                    "server": "116.68.195.50"
+                },
+                {
+                    "name": "🦊 RedFox 178",
+                    "server": "119.148.2.185"
+                },
+                {
+                    "name": "🦊 RedFox 179",
+                    "server": "119.148.7.237"
+                },
+                {
+                    "name": "🦊 RedFox 180",
+                    "server": "119.148.7.238"
+                },
+                {
+                    "name": "🦊 RedFox 190",
+                    "server": "119.148.46.177"
+                },
+                {
+                    "name": "🦊 RedFox 191",
+                    "server": "119.148.52.240"
+                },
+                {
+                    "name": "🦊 RedFox 192",
+                    "server": "119.148.52.241"
+                },
+                {
+                    "name": "🦊 RedFox 193",
+                    "server": "119.148.52.242"
+                },
+                {
+                    "name": "🦊 RedFox 194",
+                    "server": "119.148.52.243"
+                },
+                {
+                    "name": "🦊 RedFox 195",
+                    "server": "119.148.54.246"
+                },
+                {
+                    "name": "🦊 RedFox 196",
+                    "server": "202.53.168.253"
+                },
+                {
+                    "name": "🦊 RedFox 197",
+                    "server": "202.53.168.254"
+                },
+                {
+                    "name": "🦊 RedFox 247",
+                    "server": "202.40.190.134"
+                },
+                {
+                    "name": "🦊 RedFox 253",
+                    "server": "103.35.111.13"
+                },
+                {
+                    "name": "🦊 RedFox 254",
+                    "server": "103.35.110.102"
+                }
+            ]
         }
     ]
 }
