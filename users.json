@@ -1,3 +1,27 @@
 {
-    "users": []
+    "users": [
+        {
+            "username": "droxilen",
+            "ip": "103.178.186.146",
+            "expiry": "2025-08-13",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 1",
+                    "server": "103.126.23.222"
+                },
+                {
+                    "name": "🦊 RedFox 2",
+                    "server": "103.38.55.55"
+                },
+                {
+                    "name": "🦊 RedFox 3",
+                    "server": "103.166.253.94"
+                },
+                {
+                    "name": "🦊 RedFox 6",
+                    "server": "103.108.60.35"
+                }
+            ]
+        }
+    ]
 }
