@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "allowed_username": [
+            "droxilen"
+        ],
+        "proxies": [
+            {
+                "name": "🦊 RedFox 6"
+            }
+        ]
+    }
+]
