@@ -487,6 +487,44 @@
                     "server": "123.253.96.249"
                 }
             ]
+        },
+        {
+            "username": "munna99",
+            "expiry": "2025-09-30",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 2",
+                    "server": "103.38.55.55"
+                },
+                {
+                    "name": "🦊 RedFox 3",
+                    "server": "103.166.253.94"
+                },
+                {
+                    "name": "🦊 RedFox 6",
+                    "server": "103.108.60.35"
+                },
+                {
+                    "name": "🦊 RedFox 7",
+                    "server": "103.84.252.101"
+                },
+                {
+                    "name": "🦊 RedFox 8",
+                    "server": "123.253.96.249"
+                },
+                {
+                    "name": "🦊 RedFox 10",
+                    "server": "118.179.158.241"
+                },
+                {
+                    "name": "🦊 RedFox 11",
+                    "server": "43.243.205.58"
+                },
+                {
+                    "name": "🦊 RedFox 12",
+                    "server": "203.76.148.154"
+                }
+            ]
         }
     ]
 }
