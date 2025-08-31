@@ -36,12 +36,6 @@ proxies:
   password: "test"
   name: 🦊 RedFox 8
 - type: "socks5"
-  server: "103.197.48.198"
-  port: "1088"
-  username: "test"
-  password: "test"
-  name: 🦊 RedFox 9
-- type: "socks5"
   server: "118.179.158.241"
   port: "1088"
   username: "test"
