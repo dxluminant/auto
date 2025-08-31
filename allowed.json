@@ -362,16 +362,6 @@
     },
     {
         "allowed_username": [
-            "fahim"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 2"
-            }
-        ]
-    },
-    {
-        "allowed_username": [
             "goku9912"
         ],
         "proxies": [
