@@ -14,5 +14,15 @@
                 "name": "🦊 RedFox 3"
             }
         ]
+    },
+    {
+        "allowed_username": [
+            "g"
+        ],
+        "proxies": [
+            {
+                "name": "🦊 RedFox 3"
+            }
+        ]
     }
 ]
