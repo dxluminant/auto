@@ -477,32 +477,6 @@
                     "server": "103.35.110.102"
                 }
             ]
-        },
-        {
-            "username": "goku9912",
-            "expiry": "2025-09-02",
-            "proxies": [
-                {
-                    "name": "🦊 RedFox 1",
-                    "server": "103.126.23.222"
-                },
-                {
-                    "name": "🦊 RedFox 2",
-                    "server": "103.38.55.55"
-                },
-                {
-                    "name": "🦊 RedFox 3",
-                    "server": "103.166.253.94"
-                },
-                {
-                    "name": "🦊 RedFox 6",
-                    "server": "103.108.60.35"
-                },
-                {
-                    "name": "🦊 RedFox 7",
-                    "server": "103.84.252.101"
-                }
-            ]
         }
     ]
 }
