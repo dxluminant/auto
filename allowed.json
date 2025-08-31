@@ -359,5 +359,27 @@
                 "name": "🦊 RedFox 254"
             }
         ]
+    },
+    {
+        "allowed_username": [
+            "goku9912"
+        ],
+        "proxies": [
+            {
+                "name": "🦊 RedFox 64"
+            },
+            {
+                "name": "🦊 RedFox 65"
+            },
+            {
+                "name": "🦊 RedFox 70"
+            },
+            {
+                "name": "🦊 RedFox 72"
+            },
+            {
+                "name": "🦊 RedFox 77"
+            }
+        ]
     }
 ]
