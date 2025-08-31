@@ -9,6 +9,16 @@
                     "server": "103.108.60.35"
                 }
             ]
+        },
+        {
+            "username": "droxilen",
+            "expiry": "2025-08-22",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 33",
+                    "server": "118.179.214.107"
+                }
+            ]
         }
     ]
 }
