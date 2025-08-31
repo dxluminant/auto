@@ -479,16 +479,6 @@
             ]
         },
         {
-            "username": "fahim",
-            "expiry": "2025-08-13",
-            "proxies": [
-                {
-                    "name": "🦊 RedFox 2",
-                    "server": "103.38.55.55"
-                }
-            ]
-        },
-        {
             "username": "goku9912",
             "expiry": "2025-09-02",
             "proxies": [
