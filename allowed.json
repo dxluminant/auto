@@ -359,15 +359,5 @@
                 "name": "🦊 RedFox 254"
             }
         ]
-    },
-    {
-        "allowed_username": [
-            "fahim"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 2"
-            }
-        ]
     }
 ]
