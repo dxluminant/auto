@@ -8,5 +8,15 @@
                 "name": "🦊 RedFox 6"
             }
         ]
+    },
+    {
+        "allowed_username": [
+            "droxilen"
+        ],
+        "proxies": [
+            {
+                "name": "🦊 RedFox 33"
+            }
+        ]
     }
 ]
