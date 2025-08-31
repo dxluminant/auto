@@ -369,5 +369,36 @@
                 "name": "🦊 RedFox 8"
             }
         ]
+    },
+    {
+        "allowed_username": [
+            "munna99"
+        ],
+        "proxies": [
+            {
+                "name": "🦊 RedFox 2"
+            },
+            {
+                "name": "🦊 RedFox 3"
+            },
+            {
+                "name": "🦊 RedFox 6"
+            },
+            {
+                "name": "🦊 RedFox 7"
+            },
+            {
+                "name": "🦊 RedFox 8"
+            },
+            {
+                "name": "🦊 RedFox 10"
+            },
+            {
+                "name": "🦊 RedFox 11"
+            },
+            {
+                "name": "🦊 RedFox 12"
+            }
+        ]
     }
 ]
