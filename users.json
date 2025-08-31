@@ -1,3 +1,95 @@
 {
-    "users": []
+    "users": [
+        {
+            "username": "dx",
+            "ip": "103.178.186.146",
+            "expiry": "2025-09-25",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 160",
+                    "server": "118.179.200.244"
+                },
+                {
+                    "name": "🦊 RedFox 161",
+                    "server": "202.4.101.64"
+                },
+                {
+                    "name": "🦊 RedFox 162",
+                    "server": "202.4.105.96"
+                },
+                {
+                    "name": "🦊 RedFox 163",
+                    "server": "202.4.105.244"
+                },
+                {
+                    "name": "🦊 RedFox 164",
+                    "server": "202.4.117.208"
+                },
+                {
+                    "name": "🦊 RedFox 165",
+                    "server": "202.4.122.209"
+                },
+                {
+                    "name": "🦊 RedFox 175",
+                    "server": "116.68.195.50"
+                },
+                {
+                    "name": "🦊 RedFox 178",
+                    "server": "119.148.2.185"
+                },
+                {
+                    "name": "🦊 RedFox 179",
+                    "server": "119.148.7.237"
+                },
+                {
+                    "name": "🦊 RedFox 180",
+                    "server": "119.148.7.238"
+                },
+                {
+                    "name": "🦊 RedFox 190",
+                    "server": "119.148.46.177"
+                },
+                {
+                    "name": "🦊 RedFox 191",
+                    "server": "119.148.52.240"
+                },
+                {
+                    "name": "🦊 RedFox 192",
+                    "server": "119.148.52.241"
+                },
+                {
+                    "name": "🦊 RedFox 193",
+                    "server": "119.148.52.242"
+                },
+                {
+                    "name": "🦊 RedFox 194",
+                    "server": "119.148.52.243"
+                },
+                {
+                    "name": "🦊 RedFox 195",
+                    "server": "119.148.54.246"
+                },
+                {
+                    "name": "🦊 RedFox 196",
+                    "server": "202.53.168.253"
+                },
+                {
+                    "name": "🦊 RedFox 197",
+                    "server": "202.53.168.254"
+                },
+                {
+                    "name": "🦊 RedFox 247",
+                    "server": "202.40.190.134"
+                },
+                {
+                    "name": "🦊 RedFox 253",
+                    "server": "103.35.111.13"
+                },
+                {
+                    "name": "🦊 RedFox 254",
+                    "server": "103.35.110.102"
+                }
+            ]
+        }
+    ]
 }
