@@ -483,16 +483,6 @@
             "expiry": "2025-09-30",
             "proxies": [
                 {
-                    "name": "🦊 RedFox 8",
-                    "server": "123.253.96.249"
-                }
-            ]
-        },
-        {
-            "username": "munna99",
-            "expiry": "2025-09-30",
-            "proxies": [
-                {
                     "name": "🦊 RedFox 2",
                     "server": "103.38.55.55"
                 },
