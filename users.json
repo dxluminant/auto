@@ -2,16 +2,6 @@
     "users": [
         {
             "username": "droxilen",
-            "expiry": "2025-08-16",
-            "proxies": [
-                {
-                    "name": "🦊 RedFox 7",
-                    "server": "103.84.252.101"
-                }
-            ]
-        },
-        {
-            "username": "droxilen",
             "expiry": "2025-08-21",
             "proxies": [
                 {
