@@ -477,6 +477,32 @@
                     "server": "103.35.110.102"
                 }
             ]
+        },
+        {
+            "username": "free77",
+            "expiry": "2025-09-02",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 196",
+                    "server": "202.53.168.253"
+                },
+                {
+                    "name": "🦊 RedFox 197",
+                    "server": "202.53.168.254"
+                },
+                {
+                    "name": "🦊 RedFox 247",
+                    "server": "202.40.190.134"
+                },
+                {
+                    "name": "🦊 RedFox 253",
+                    "server": "103.35.111.13"
+                },
+                {
+                    "name": "🦊 RedFox 254",
+                    "server": "103.35.110.102"
+                }
+            ]
         }
     ]
 }
