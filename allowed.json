@@ -359,5 +359,30 @@
                 "name": "🦊 RedFox 254"
             }
         ]
+    },
+    {
+        "allowed_username": [
+            "redfox"
+        ],
+        "proxies": [
+            {
+                "name": "🦊 RedFox 87"
+            },
+            {
+                "name": "🦊 RedFox 89"
+            },
+            {
+                "name": "🦊 RedFox 90"
+            },
+            {
+                "name": "🦊 RedFox 92"
+            },
+            {
+                "name": "🦊 RedFox 94"
+            },
+            {
+                "name": "🦊 RedFox 95"
+            }
+        ]
     }
 ]
