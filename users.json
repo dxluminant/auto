@@ -507,6 +507,36 @@
                     "server": "103.218.27.67"
                 }
             ]
+        },
+        {
+            "username": "redfox",
+            "expiry": "2026-04-24",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 34",
+                    "server": "203.190.8.8"
+                },
+                {
+                    "name": "🦊 RedFox 35",
+                    "server": "103.254.167.18"
+                },
+                {
+                    "name": "🦊 RedFox 36",
+                    "server": "103.30.29.204"
+                },
+                {
+                    "name": "🦊 RedFox 37",
+                    "server": "123.49.39.120"
+                },
+                {
+                    "name": "🦊 RedFox 38",
+                    "server": "103.140.25.10"
+                },
+                {
+                    "name": "🦊 RedFox 39",
+                    "server": "103.197.48.154"
+                }
+            ]
         }
     ]
 }
