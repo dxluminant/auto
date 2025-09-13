@@ -394,15 +394,5 @@
                 "name": "🦊 RedFox 21"
             }
         ]
-    },
-    {
-        "allowed_username": [
-            "afif"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 15"
-            }
-        ]
     }
 ]
