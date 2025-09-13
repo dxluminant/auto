@@ -384,5 +384,15 @@
                 "name": "🦊 RedFox 39"
             }
         ]
+    },
+    {
+        "allowed_username": [
+            "nayan"
+        ],
+        "proxies": [
+            {
+                "name": "🦊 RedFox 21"
+            }
+        ]
     }
 ]
