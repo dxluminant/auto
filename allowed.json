@@ -384,15 +384,5 @@
                 "name": "🦊 RedFox 39"
             }
         ]
-    },
-    {
-        "allowed_username": [
-            "siam"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 21"
-            }
-        ]
     }
 ]
