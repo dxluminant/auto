@@ -384,15 +384,5 @@
                 "name": "🦊 RedFox 39"
             }
         ]
-    },
-    {
-        "allowed_username": [
-            "ax98"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 15"
-            }
-        ]
     }
 ]
