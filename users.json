@@ -509,16 +509,6 @@
             ]
         },
         {
-            "username": "ecats",
-            "expiry": "2025-11-14",
-            "proxies": [
-                {
-                    "name": "🦊 RedFox 8",
-                    "server": "123.253.96.249"
-                }
-            ]
-        },
-        {
             "username": "ax98",
             "expiry": "2025-10-28",
             "proxies": [
