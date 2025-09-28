@@ -384,5 +384,15 @@
                 "name": "🦊 RedFox 39"
             }
         ]
+    },
+    {
+        "allowed_username": [
+            "dxfour"
+        ],
+        "proxies": [
+            {
+                "name": "🦊 RedFox 15"
+            }
+        ]
     }
 ]
