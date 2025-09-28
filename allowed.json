@@ -387,16 +387,6 @@
     },
     {
         "allowed_username": [
-            "ecats"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 8"
-            }
-        ]
-    },
-    {
-        "allowed_username": [
             "ax98"
         ],
         "proxies": [
