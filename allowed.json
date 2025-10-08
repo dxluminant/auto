@@ -23,21 +23,5 @@
                 "name": "🦊 RedFox 39"
             }
         ]
-    },
-    {
-        "allowed_username": [
-            "redfox"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 102"
-            },
-            {
-                "name": "🦊 RedFox 109"
-            },
-            {
-                "name": "🦊 RedFox 110"
-            }
-        ]
     }
 ]
