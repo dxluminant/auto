@@ -5,31 +5,6 @@
         ],
         "proxies": [
             {
-                "name": "🦊 RedFox 34"
-            },
-            {
-                "name": "🦊 RedFox 35"
-            },
-            {
-                "name": "🦊 RedFox 36"
-            },
-            {
-                "name": "🦊 RedFox 37"
-            },
-            {
-                "name": "🦊 RedFox 38"
-            },
-            {
-                "name": "🦊 RedFox 39"
-            }
-        ]
-    },
-    {
-        "allowed_username": [
-            "redfox"
-        ],
-        "proxies": [
-            {
                 "name": "🦊 RedFox 102"
             },
             {
