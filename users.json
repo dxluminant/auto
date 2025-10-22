@@ -587,8 +587,16 @@
             "expiry": "2026-10-22",
             "proxies": [
                 {
-                    "name": "🦊 RedFox 38",
-                    "server": "103.140.25.10"
+                    "name": "🦊 RedFox 102",
+                    "server": "103.120.203.188"
+                },
+                {
+                    "name": "🦊 RedFox 109",
+                    "server": "119.40.82.113"
+                },
+                {
+                    "name": "🦊 RedFox 110",
+                    "server": "119.40.83.153"
                 }
             ]
         }
