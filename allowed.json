@@ -464,7 +464,13 @@
         ],
         "proxies": [
             {
-                "name": "🦊 RedFox 38"
+                "name": "🦊 RedFox 102"
+            },
+            {
+                "name": "🦊 RedFox 109"
+            },
+            {
+                "name": "🦊 RedFox 110"
             }
         ]
     }
