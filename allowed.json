@@ -359,21 +359,5 @@
                 "name": "🦊 RedFox 254"
             }
         ]
-    },
-    {
-        "allowed_username": [
-            "4b18396a4738b1c536f3506ab0aa3603ea3a53b8e46b35b0f3"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 102"
-            },
-            {
-                "name": "🦊 RedFox 109"
-            },
-            {
-                "name": "🦊 RedFox 110"
-            }
-        ]
     }
 ]
