@@ -581,6 +581,16 @@
                     "server": "43.243.205.58"
                 }
             ]
+        },
+        {
+            "username": "7669ff76206ac0197a4101f9bd128edc1fe2ddef3d85b163f1",
+            "expiry": "2026-10-22",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 7",
+                    "server": "103.84.252.101"
+                }
+            ]
         }
     ]
 }
