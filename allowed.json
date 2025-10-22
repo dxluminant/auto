@@ -1,22 +1,6 @@
 [
     {
         "allowed_username": [
-            "redfox"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 102"
-            },
-            {
-                "name": "🦊 RedFox 109"
-            },
-            {
-                "name": "🦊 RedFox 110"
-            }
-        ]
-    },
-    {
-        "allowed_username": [
             "droxilen"
         ],
         "proxies": [
