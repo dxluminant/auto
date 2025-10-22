@@ -1,24 +1,6 @@
 {
     "users": [
         {
-            "username": "redfox",
-            "expiry": "2026-08-13",
-            "proxies": [
-                {
-                    "name": "🦊 RedFox 102",
-                    "server": "103.120.203.188"
-                },
-                {
-                    "name": "🦊 RedFox 109",
-                    "server": "119.40.82.113"
-                },
-                {
-                    "name": "🦊 RedFox 110",
-                    "server": "119.40.83.153"
-                }
-            ]
-        },
-        {
             "username": "droxilen",
             "expiry": "2062-10-12",
             "proxies": [
