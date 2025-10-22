@@ -497,16 +497,6 @@
             ]
         },
         {
-            "username": "ebce26c4dfc4410f4d1ee35d4e56358a0a0170257347de1172",
-            "expiry": "2025-12-11",
-            "proxies": [
-                {
-                    "name": "🦊 RedFox 8",
-                    "server": "123.253.96.249"
-                }
-            ]
-        },
-        {
             "username": "ce4285b4785ffc230506552ebc0a3cf707c04bff79c641a670",
             "expiry": "2025-12-11",
             "proxies": [
