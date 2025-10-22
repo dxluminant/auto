@@ -497,16 +497,6 @@
             ]
         },
         {
-            "username": "6f8816b6e9356058b692f22a20cf4e48344d00f6b46ebb0fc8",
-            "expiry": "2025-10-27",
-            "proxies": [
-                {
-                    "name": "🦊 RedFox 6",
-                    "server": "103.108.60.35"
-                }
-            ]
-        },
-        {
             "username": "ba1133cb1bd03c273c5036c53d80f453ced79e3f36c1885c7f",
             "expiry": "2025-11-21",
             "proxies": [
