@@ -649,6 +649,16 @@
                     "server": "123.253.96.249"
                 }
             ]
+        },
+        {
+            "username": "3998121f71bef5fbaafb7f898186547db755de34a0bf48fbde",
+            "expiry": "2025-12-11",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 8",
+                    "server": "123.253.96.249"
+                }
+            ]
         }
     ]
 }
