@@ -378,16 +378,6 @@
     },
     {
         "allowed_username": [
-            "c82c326091e058093dac27fff60274219d718e74d3541b40ed"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 8"
-            }
-        ]
-    },
-    {
-        "allowed_username": [
             "7ff2db0842d776654846808c6538e55a2050080d94ad7b8cea"
         ],
         "proxies": [
