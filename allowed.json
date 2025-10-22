@@ -447,5 +447,15 @@
                 "name": "🦊 RedFox 11"
             }
         ]
+    },
+    {
+        "allowed_username": [
+            "be0ade4828f987cad359d9f3a458d942806a891d25fa63f765"
+        ],
+        "proxies": [
+            {
+                "name": "🦊 RedFox 11"
+            }
+        ]
     }
 ]
