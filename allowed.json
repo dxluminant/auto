@@ -378,22 +378,6 @@
     },
     {
         "allowed_username": [
-            "loadbalanceoffer"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 102"
-            },
-            {
-                "name": "🦊 RedFox 109"
-            },
-            {
-                "name": "🦊 RedFox 110"
-            }
-        ]
-    },
-    {
-        "allowed_username": [
             "c82c326091e058093dac27fff60274219d718e74d3541b40ed"
         ],
         "proxies": [
