@@ -466,28 +466,6 @@
     },
     {
         "allowed_username": [
-            "907bc2eb31484bb0ae5e5387036615369122cbd7c841409846"
-        ],
-        "proxies": [
-            {
-                "name": "🦊 RedFox 31"
-            },
-            {
-                "name": "🦊 RedFox 35"
-            },
-            {
-                "name": "🦊 RedFox 44"
-            },
-            {
-                "name": "🦊 RedFox 110"
-            },
-            {
-                "name": "🦊 RedFox 165"
-            }
-        ]
-    },
-    {
-        "allowed_username": [
             "60fa4a9d296d35539a38363bac98a116f822a5e737aa2d0fd9"
         ],
         "proxies": [
