@@ -463,5 +463,25 @@
                 "name": "🦊 RedFox 165"
             }
         ]
+    },
+    {
+        "username": "c5b0b94515f675e00f85d1afe9d9dd67145dbee5e33bdb25f7",
+        "proxies": [
+            {
+                "name": "🦊 RedFox 31"
+            },
+            {
+                "name": "🦊 RedFox 35"
+            },
+            {
+                "name": "🦊 RedFox 44"
+            },
+            {
+                "name": "🦊 RedFox 110"
+            },
+            {
+                "name": "🦊 RedFox 165"
+            }
+        ]
     }
 ]
