@@ -599,6 +599,31 @@
                     "server": "202.4.122.209"
                 }
             ]
+        },
+        {
+            "username": "c5b0b94515f675e00f85d1afe9d9dd67145dbee5e33bdb25f7",
+            "proxies": [
+                {
+                    "name": "🦊 RedFox 31",
+                    "server": "203.96.226.98"
+                },
+                {
+                    "name": "🦊 RedFox 35",
+                    "server": "103.254.167.18"
+                },
+                {
+                    "name": "🦊 RedFox 44",
+                    "server": "103.84.252.97"
+                },
+                {
+                    "name": "🦊 RedFox 110",
+                    "server": "119.40.83.153"
+                },
+                {
+                    "name": "🦊 RedFox 165",
+                    "server": "202.4.122.209"
+                }
+            ]
         }
     ]
 }
