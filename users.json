@@ -625,40 +625,6 @@
             ]
         },
         {
-            "username": "6db27cd16c9e4512b6aea4060c92c2e67007215578af3e70b7",
-            "expiry": "2026-02-10",
-            "proxies": [
-                {
-                    "name": "🦊 RedFox 1",
-                    "server": "103.126.23.222"
-                },
-                {
-                    "name": "🦊 RedFox 31",
-                    "server": "203.96.226.98"
-                },
-                {
-                    "name": "🦊 RedFox 35",
-                    "server": "103.254.167.18"
-                },
-                {
-                    "name": "🦊 RedFox 44",
-                    "server": "103.84.252.97"
-                },
-                {
-                    "name": "🦊 RedFox 79",
-                    "server": "103.4.64.163"
-                },
-                {
-                    "name": "🦊 RedFox 110",
-                    "server": "119.40.83.153"
-                },
-                {
-                    "name": "🦊 RedFox 165",
-                    "server": "202.4.122.209"
-                }
-            ]
-        },
-        {
             "username": "150545d2fa77959c4659daa9f070ba6c1bf64c49af7c138411",
             "expiry": "2026-01-08",
             "proxies": [
